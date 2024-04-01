@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "paxlavon2206@gmail.com",
+      "password": "$2a$10$akJQ6KdlaDJd4ixzDECIgukk3WN76ye5Ew80oYEJQ5aWWn5F8HkDG",
+      "name": "Pahlavon",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "title": "Спортивное питание",
+      "img": "https://olcha.uz/image/266x266/products/dp5xGnpR9BkPnkAhnhYgeoO0zAkI2DoO5waCfT9oOucbBVbzESmkPuMmmvNA.jpg",
+      "id": 4
+    },
+    {
+      "title": "Телевизоры",
+      "img": "https://olcha.uz/image/266x266/products/T7CMnM3ZGr5VSFVIZiW39G7Xseh4SOZEICrP9yd0VTg6B1jyzRCn8zSzIq7B.jpg",
+      "id": 5
+    },
+    {
+      "title": "Ноутбуки",
+      "img": "https://olcha.uz/image/266x266/products/2022-08-26/macbook-air-m2-13-2022-512gb-ssd-starlight-102142-0.jpeg",
+      "id": 7
+    },
+    {
+      "title": "Смартфоны",
+      "img": "https://olcha.uz/image/700x700/products/2022-07-13/apple-iphone-14-64963-0.jpeg",
+      "id": 9
+    },
+    {
+      "title": "Автотовары",
+      "img": "https://olcha.uz/image/266x400/products/2021-06-18/chekhly-dlya-sidenya-cardinar-alfa-silver-nexia-3-24154-0.jpeg",
+      "id": 10
+    }
+  ],
+  "banners": [],
+  "products": []
+}
